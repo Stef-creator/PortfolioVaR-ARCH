@@ -24,17 +24,18 @@ This project implements portfolio Value-at-Risk (VaR) estimation using ARCH/GARC
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Stef-creator/PortfolioVaR-ARCH.git
-   cd PortfolioVaR-ARCH
-   ```
+```bash
+git clone https://github.com/Stef-creator/PortfolioVaR-ARCH.git
+cd PortfolioVaR-ARCH
+```
 2. Set up a Python environment and install dependencies:
 
-  ```bash
-  python -m venv venv
-  source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-  pip install -r requirements.txt
-  ```
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
+```
+
 3. Run the notebook PortfolioVaR-ARCH.ipynb to explore the data, models, and results.
 
 Usage
